@@ -44,7 +44,7 @@
     </properties>
 
     <build>
-	    <finalName>build example </finalName>
+	    <finalName>Build example</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
